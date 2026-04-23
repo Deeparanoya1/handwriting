@@ -1,3 +1,3 @@
 # handwriting
 update
-uot
+uo
